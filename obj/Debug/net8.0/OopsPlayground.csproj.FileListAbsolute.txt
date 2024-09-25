@@ -1,0 +1,14 @@
+/home/msi/OopsPlayground/bin/Debug/net8.0/OopsPlayground
+/home/msi/OopsPlayground/bin/Debug/net8.0/OopsPlayground.deps.json
+/home/msi/OopsPlayground/bin/Debug/net8.0/OopsPlayground.runtimeconfig.json
+/home/msi/OopsPlayground/bin/Debug/net8.0/OopsPlayground.dll
+/home/msi/OopsPlayground/bin/Debug/net8.0/OopsPlayground.pdb
+/home/msi/OopsPlayground/obj/Debug/net8.0/OopsPlayground.GeneratedMSBuildEditorConfig.editorconfig
+/home/msi/OopsPlayground/obj/Debug/net8.0/OopsPlayground.AssemblyInfoInputs.cache
+/home/msi/OopsPlayground/obj/Debug/net8.0/OopsPlayground.AssemblyInfo.cs
+/home/msi/OopsPlayground/obj/Debug/net8.0/OopsPlayground.csproj.CoreCompileInputs.cache
+/home/msi/OopsPlayground/obj/Debug/net8.0/OopsPlayground.dll
+/home/msi/OopsPlayground/obj/Debug/net8.0/refint/OopsPlayground.dll
+/home/msi/OopsPlayground/obj/Debug/net8.0/OopsPlayground.pdb
+/home/msi/OopsPlayground/obj/Debug/net8.0/OopsPlayground.genruntimeconfig.cache
+/home/msi/OopsPlayground/obj/Debug/net8.0/ref/OopsPlayground.dll
